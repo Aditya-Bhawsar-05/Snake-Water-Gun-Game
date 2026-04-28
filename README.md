@@ -1,0 +1,1 @@
+Snake, Water, Gun is a simple Python-based command-line game inspired by Rock-Paper-Scissors. Players compete against the computer by choosing Snake, Water, or Gun, each with specific winning rules. It’s a fun beginner-friendly project demonstrating basic logic, loops, and user interaction.
